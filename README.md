@@ -1,8 +1,3 @@
-It looks like you're running into some common environment and installation issues on Windows. Let's get those sorted out.
-
-Here are the updated instructions to fix the errors and run the application.
-
-### Corrected `README.md`
 
 # Startup Success Prediction
 
